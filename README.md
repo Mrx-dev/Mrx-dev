@@ -1,11 +1,11 @@
 # Hi there! I'm [MrxDev](https://mrxdev.ml)
 
-### 👨‍💻About Me
+## 👨‍💻About Me
+- ☺ My name is Omar 18 years old live in Saudi arabia.
 - 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Learning Programming and Ethical Hacking.
 - 🎮 Lover of Gaming & Anime.
 - ✨ My dream is to be the best programmer & Ethical Hacker.
-- ☺ My name is Omar 18 years old live in Saudi arabia.
 
 
 
