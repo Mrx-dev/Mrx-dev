@@ -19,5 +19,5 @@
 <img src='https://github-readme-stats.vercel.app/api?username=Mrx-dev&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=19191919'>
 
 ### 🤝 Connect With Me
-<a href='https://www.instagram.com/mrxdev/'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'>
-<a href='https://www.twiiter.com/mrxdev2/'><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'>
+<a href='https://instagram.com/mrxdev/'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'>
+<a href='https://twiiter.com/mrxdev2/'><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'>
