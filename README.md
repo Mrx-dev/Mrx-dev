@@ -20,7 +20,7 @@
 
 <h3 class="center">Status 📄</h3>
 <img src='https://github-readme-stats.vercel.app/api?username=Mrx-dev&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=000'>
-<a href="https://discord.com/users/416231778366390272"><img alt="Discord Status" src="https://discord.c99.nl/widget/theme-1/416231778366390272.png"></a>
+<a href="https://discord.com/users/416231778366390272"><img alt="Discord Status" src="https://discord.c99.nl/widget/theme-3/416231778366390272.png"></a>
 
 
 ### 🤝 Connect With Me
